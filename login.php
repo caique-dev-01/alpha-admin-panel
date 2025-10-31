@@ -15,6 +15,7 @@ session_start();
     <h2>Login do administrador</h2>
     <form action="processa_login.php" method="POST"></form>
     <div>
+        <h2>Login</h2>
         <label for="username">Usuário:</label>
         <input type="text" id="username" name="username" required>
     </div>
